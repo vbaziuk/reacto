@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 
 // custom hooks in react need to start with 'use'
 const useFetch = (url) => {
+ 
     // useState allows us to use different states in react and update them accordingly.
     const [data, setData] = useState(null);
     const [isPending, setIsPending] = useState(true);
