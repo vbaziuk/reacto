@@ -1,3 +1,8 @@
+# Reacto
+
+A simple react blog you can use for starting react projects. Created with create-react-app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
