@@ -1,5 +1,8 @@
+import React from 'react'
 import { Link } from "react-router-dom";
 
+
+/* eslint-disable react/prop-types */
 const BlogList = ({ blogs, title }) => {
 
     return (

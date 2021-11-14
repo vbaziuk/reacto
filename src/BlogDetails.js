@@ -1,5 +1,5 @@
+import React from 'react';
 import { useHistory, useParams } from "react-router";
-import BlogList from "./BlogList";
 import useFetch from "./useFetch";
 
 const BlogDetails = () => {

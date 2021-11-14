@@ -1,3 +1,4 @@
+import React from 'react'
 // note: a component is just a function that exports a jsx template
 import { Link } from 'react-router-dom';
 
