@@ -24,7 +24,7 @@ function App() {
             <Create />
           </Route>
 
-          <Route exact path="/blogs/:id"> 
+          <Route exact path="/logins/:id"> 
             <BlogDetails />
           </Route>
 
